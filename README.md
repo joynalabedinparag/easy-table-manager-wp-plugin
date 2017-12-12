@@ -15,4 +15,4 @@
 # Export to excel.
 
 
-![alt text](https://github.com/paragcste/easy-table-manager-wp-plugin/screenshots/list.png "Crud List")
+![alt text](https://github.com/paragcste/easy-table-manager-wp-plugin/master/screenshots/list.png "Crud List")
