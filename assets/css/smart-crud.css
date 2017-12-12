@@ -1,0 +1,41 @@
+#smart-crud-parent-container {
+    margin-top : 50px;
+}
+
+#smart-crud-edit-form {
+    margin-top : 30px;
+}
+
+#item-add-btn {
+    margin-bottom: 10px;
+}
+
+#crud_msg_error {
+    display : none;
+}
+
+a.item-edit-btn:hover,a.item-edit-btn:active, a.item-edit-btn:focus {
+    text-decoration: none;
+}
+
+
+/* Manage Options */
+.relational_field {
+    padding : 10px;
+    margin : 10px;
+    border-bottom : 1px dashed black;
+}
+
+#btn_add_new_relational_block {
+    margin-left : 25px;
+    float: right;
+}
+
+#btn_add_relational_data {
+    margin : 10px;
+    margin-left : 40px;
+}
+
+.remove-relational_field_block {
+    float: right;
+}
